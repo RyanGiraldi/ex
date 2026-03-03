@@ -15,13 +15,3 @@ function trcTema() {
         img.setAttribute('src', '/assets/Avatar.png')
     }
 }
-
-
-
-// significa contem o claro?
-/* if(html.classList.contains('claro')) {
-        html.classList.remove('claro')
-    } else {
-        html.classList.add('claro')
-    }
-*/ //isso é trocado pelo html.classList.toggle('claro')
